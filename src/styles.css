@@ -1,0 +1,17 @@
+:root {
+  font-size: 14px;
+}
+
+.w-45 {
+  width: 45%;
+}
+
+.absoluteButton {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
+
+.list-group-item:hover {
+  background: rgba(13 110 253 / 0.05);
+}
